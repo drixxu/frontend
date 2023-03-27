@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://drixxxu.pythonanywhere.com",
+  "proxy": "https://drixxxu.pythonanywhere.com/",
   "homepage": "https://drixxu.github.io/frontend/",
   "version": "0.1.0",
   "private": true,
